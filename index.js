@@ -9,7 +9,7 @@ module.exports = function(sails) {
     
     return {
         weather: {
-            get
+            get: get
         }
     };
 };
