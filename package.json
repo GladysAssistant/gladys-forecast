@@ -1,0 +1,19 @@
+{
+  "name": "gladys-forecast",
+  "version": "0.1.0",
+  "description": "Gladys weather provider with Forecast API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "weather",
+    "forecast"
+  ],
+  "author": "Pierre-Gilles Leymarie",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "forecast": "^0.3.2"
+  }
+}
