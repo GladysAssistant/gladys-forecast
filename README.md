@@ -10,7 +10,7 @@ Need Gladys >= 3.4
 - Create a Forecast account here => https://darksky.net/dev/
 - In Gladys dashboard, in "Parameters" => "Parameters" :
     - Create a Gladys param "FORECAST_API_KEY" with the API key provided by darksky.
-    - Create a Gladys param "FORECAST_UNITS" with either ('celsius' or 'fahrenheit' )
+    - Create a Gladys param "FORECAST_UNITS" with either ('si' or 'us' ) (si => celsius + km/h, us => fahrenheit + mph)
 - Install the module in Gladys
 - Reboot Gladys
 
