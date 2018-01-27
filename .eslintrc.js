@@ -7,7 +7,7 @@ module.exports = {
     'extends': 'eslint:recommended',
     'rules': {
         "no-console":0,
-        "indent": [2],
+        "indent": ["error", 2],
         'linebreak-style': [
             'error',
             'unix'
